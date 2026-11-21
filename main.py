@@ -13,7 +13,8 @@ TEXT = (
     "The light reaching you tonight left its star before the first "
     "cities were built, and it travelled all that way without "
     "hurrying. You are small beside it, and nothing you are carrying "
-    "is urgent beside that. The night is wide enough to hold it all."
+    "is urgent beside that. The night is wide enough to hold it all — "
+    "and still has room for you."
 )
 
 
